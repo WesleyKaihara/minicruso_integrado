@@ -5,3 +5,10 @@
 - Suco
 - Leite
 - Ovo
+- Feijão
+- Tomate
+- Cenoura
+- Abacaxi
+- Chocolate
+- Refrigerante
+- Alface
