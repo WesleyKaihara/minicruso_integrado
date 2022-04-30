@@ -8,4 +8,7 @@
 - Feijão
 - Tomate
 - Cenoura
+- Chocolate
+- Refrigerante
+- Alface
 - Abacaxi
