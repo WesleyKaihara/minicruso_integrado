@@ -6,8 +6,8 @@ function CalcularFrete(distancia, peso) {
     valor += 5;
   }
 
-  console.log("Peso:", peso);
-  console.log("Distancia: ", distancia)
+  console.log("Peso (com a embalagem):", peso);
+  console.log("Distancia Total: ", distancia)
   return valor;
 }
 
