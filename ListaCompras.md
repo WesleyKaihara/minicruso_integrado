@@ -5,3 +5,7 @@
 - Suco
 - Leite
 - Ovo
+- Feijão
+- Tomate
+- Cenoura
+- Abacaxi
